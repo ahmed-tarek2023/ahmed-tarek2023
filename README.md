@@ -2,6 +2,7 @@
 
 <!--
 **ahmed-tarek2023/ahmed-tarek2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Profile%20Views-1000-blue?style=flat" alt="profile-views" />
 
 Here are some ideas to get you started:
 
