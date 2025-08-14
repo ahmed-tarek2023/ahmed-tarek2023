@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/snake.svg" alt="Snake animation" />
+</p>
