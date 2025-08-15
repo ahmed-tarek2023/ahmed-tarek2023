@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <!--   <img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
   ## Snake eating my contribute graph
   
-![snake gif](https://github.com/AmarYasser1/AmarYasser1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ahmed-tarek2023/ahmed-tarek2023/blob/output/github-contribution-grid-snake.gif)
 </p>
