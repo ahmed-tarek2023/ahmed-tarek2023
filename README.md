@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <!-- Backend Column -->
     <td valign="top" width="50%">
       <h3>🖥 Backend</h3>
       <ul>
@@ -36,8 +35,6 @@ Here are some ideas to get you started:
         <li><b>API</b></li>
       </ul>
     </td>
-
-    <!-- Tools Column -->
     <td valign="top" width="50%">
       <h3>🛠 Tools</h3>
       <ul>
