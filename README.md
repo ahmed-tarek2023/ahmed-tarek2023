@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=ahmed-tarek-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-tarek-2004" />
+<img src="https://komarev.com/ghpvc/?username=ahm&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-tarek-2004" />
 <!--
 **ahmed-tarek2023/ahmed-tarek2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 -->
 <br clear="both">
 <p align="center">
-<p align="center">
   <img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 </p>
