@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 -->
 <br clear="both">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-tarek2023/ahmed-tarek2023/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 </p>
