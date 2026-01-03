@@ -4,6 +4,5 @@
         <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-tarek2023&count_private=true&theme=tokyo&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
       </div>
 </div>
----
-
+</br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed-tarek-2004&theme=tokyonight)](https://git.io/streak-stats)
